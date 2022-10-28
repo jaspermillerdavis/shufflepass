@@ -17,7 +17,7 @@ const keyValues = fetch("assets/includes/keyValues.json")
 	});
 
 function numbers() {
-	const rndInt1 = Math.floor(Math.random() * 6) + 1;
+	const rndInt1 = Math.floor(Math.random() * 8) + 1;
 	const rndInt2min = Math.ceil(rndInt1 - 1);
 	const rndInt2max = Math.floor(rndInt1 + 1);
 
