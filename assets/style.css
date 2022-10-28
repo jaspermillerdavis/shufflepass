@@ -100,7 +100,7 @@ h2 {
 }
 
 #output:hover span {
-	color: black;
+	color: black !important;
 }
 
 @media screen and (min-width: 650px) {
