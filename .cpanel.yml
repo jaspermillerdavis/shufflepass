@@ -1,0 +1,6 @@
+deployment:
+  tasks:
+	- export DEPLOYPATH=/home/jmdnet/shufflepass/
+	- /bin/cp index.html $DEPLOYPATH
+	- /bin/cp favicon.png $DEPLOYPATH
+	- /bin/cp -R assets $DEPLOYPATH
