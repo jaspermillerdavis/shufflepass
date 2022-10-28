@@ -254,3 +254,21 @@ h2 {
 .footer a:hover {
 	color: black;
 }
+
+a.github {
+	margin: 0 auto;
+	display: block;
+	height: 16px;
+	width: 16px;
+	background-image: url(github.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 1rem;
+	border-bottom: none;
+	opacity: 0.5;
+	transition: opacity 0.3s ease;
+}
+
+a.github:hover {
+	opacity: 1;
+}
