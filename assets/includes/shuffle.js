@@ -62,9 +62,9 @@ const runGenerator = async () => {
 	lastNumber = String(number).slice(-1);
 
 	function generate() {
-		randColour = selectRandom(colourData);
-		randAnimal = selectRandom(animalData);
-		keyValue = keyValuesData[(lastNumber - 1)].symbol;
+		let randColour = selectRandom(colourData);
+		let randAnimal = selectRandom(animalData);
+		let keyValue = keyValuesData[(lastNumber - 1)].symbol;
 
 		return '<span class="colour" style="color: ' + randColour.value + '">' + randColour.name + '</span>' + '<span class="animal">' + randAnimal + '</span>' + '<span class="number">' + number + '</span>' + '<span class="key">' + keyValue + '</span>';
 	}
