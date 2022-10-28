@@ -1,0 +1,1754 @@
+[
+  {
+    "name": "Abbey",
+    "value": "#4c4f56"
+  },
+  {
+    "name": "Acadia",
+    "value": "#1b1404"
+  },
+  {
+    "name": "Acapulco",
+    "value": "#7cb0a1"
+  },
+  {
+    "name": "Aero",
+    "value": "#7cb9e8"
+  },
+  {
+    "name": "Affair",
+    "value": "#714693"
+  },
+  {
+    "name": "Akaroa",
+    "value": "#d4c4a8"
+  },
+  {
+    "name": "Alabaster",
+    "value": "#fafafa"
+  },
+  {
+    "name": "Algae",
+    "value": "#93dfb8"
+  },
+  {
+    "name": "Alloy",
+    "value": "#c46210"
+  },
+  {
+    "name": "Allports",
+    "value": "#0076a3"
+  },
+  {
+    "name": "Almond",
+    "value": "#efdecd"
+  },
+  {
+    "name": "Alpine",
+    "value": "#af8f2c"
+  },
+  {
+    "name": "Alto",
+    "value": "#dbdbdb"
+  },
+  {
+    "name": "Aluminium",
+    "value": "#a9acb6"
+  },
+  {
+    "name": "Eclipse",
+    "value": "#311c17"
+  },
+  {
+    "name": "Ecru",
+    "value": "#c2b280"
+  },
+  {
+    "name": "Ecstasy",
+    "value": "#fa7814"
+  },
+  {
+    "name": "Eden",
+    "value": "#105852"
+  },
+  {
+    "name": "Edgewater",
+    "value": "#c8e3d7"
+  },
+  {
+    "name": "Edward",
+    "value": "#a2aeab"
+  },
+  {
+    "name": "Eerie",
+    "value": "#1b1b1b"
+  },
+  {
+    "name": "Egg",
+    "value": "#fff4dd"
+  },
+  {
+    "name": "Eggplant",
+    "value": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "value": "#f0ead6"
+  },
+  {
+    "name": "Egyptian",
+    "value": "#1034a6"
+  },
+  {
+    "name": "Electric",
+    "value": "#7df9ff"
+  },
+  {
+    "name": "Elephant",
+    "value": "#123447"
+  },
+  {
+    "name": "Elm",
+    "value": "#1c7c7d"
+  },
+  {
+    "name": "Emerald",
+    "value": "#50c878"
+  },
+  {
+    "name": "Apricot",
+    "value": "#fbceb1"
+  },
+  {
+    "name": "Aqua",
+    "value": "#014b43"
+  },
+  {
+    "name": "Aquamarine",
+    "value": "#7fffd4"
+  },
+  {
+    "name": "Arapawa",
+    "value": "#110c6c"
+  },
+  {
+    "name": "Armadillo",
+    "value": "#433e37"
+  },
+  {
+    "name": "Arrowtown",
+    "value": "#948771"
+  },
+  {
+    "name": "Arsenic",
+    "value": "#3b444b"
+  },
+  {
+    "name": "Artichoke",
+    "value": "#8f9779"
+  },
+  {
+    "name": "Ash",
+    "value": "#c6c3b5"
+  },
+  {
+    "name": "Asparagus",
+    "value": "#87a96b"
+  },
+  {
+    "name": "Asphalt",
+    "value": "#130a06"
+  },
+  {
+    "name": "Astra",
+    "value": "#faeab9"
+  },
+  {
+    "name": "Astral",
+    "value": "#327da0"
+  },
+  {
+    "name": "Astronaut",
+    "value": "#283a77"
+  },
+  {
+    "name": "Atlantis",
+    "value": "#97cd2d"
+  },
+  {
+    "name": "Atoll",
+    "value": "#0a6f75"
+  },
+  {
+    "name": "Aubergine",
+    "value": "#3b0910"
+  },
+  {
+    "name": "Auburn",
+    "value": "#a52a2a"
+  },
+  {
+    "name": "Aureolin",
+    "value": "#fdee00"
+  },
+  {
+    "name": "Avocado",
+    "value": "#568203"
+  },
+  {
+    "name": "Axolotl",
+    "value": "#4e6649"
+  },
+  {
+    "name": "Azalea",
+    "value": "#f7c8da"
+  },
+  {
+    "name": "Aztec",
+    "value": "#0d1c19"
+  },
+  {
+    "name": "Azure",
+    "value": "#007fff"
+  },
+  {
+    "name": "Bahama",
+    "value": "#026395"
+  },
+  {
+    "name": "Bahia",
+    "value": "#a5cb0c"
+  },
+  {
+    "name": "Baja",
+    "value": "#fff8d1"
+  },
+  {
+    "name": "Baltic",
+    "value": "#2a2630"
+  },
+  {
+    "name": "Bamboo",
+    "value": "#da6304"
+  },
+  {
+    "name": "Banana",
+    "value": "#fae7b5"
+  },
+  {
+    "name": "Bandicoot",
+    "value": "#858470"
+  },
+  {
+    "name": "Barberry",
+    "value": "#ded717"
+  },
+  {
+    "name": "Barbie",
+    "value": "#e0218a"
+  },
+  {
+    "name": "Barn",
+    "value": "#7c0a02"
+  },
+  {
+    "name": "Barossa",
+    "value": "#44012d"
+  },
+  {
+    "name": "Bastille",
+    "value": "#292130"
+  },
+  {
+    "name": "Bayleaf",
+    "value": "#7da98d"
+  },
+  {
+    "name": "Bazaar",
+    "value": "#98777b"
+  },
+  {
+    "name": "Bedazzled",
+    "value": "#2e5894"
+  },
+  {
+    "name": "Beaver",
+    "value": "#9f8170"
+  },
+  {
+    "name": "Beeswax",
+    "value": "#fef2c7"
+  },
+  {
+    "name": "Beige",
+    "value": "#f5f5dc"
+  },
+  {
+    "name": "Belgion",
+    "value": "#add8ff"
+  },
+  {
+    "name": "Bermuda",
+    "value": "#7dd8c6"
+  },
+  {
+    "name": "Bianca",
+    "value": "#fcfbf3"
+  },
+  {
+    "name": "Bilbao",
+    "value": "#327c14"
+  },
+  {
+    "name": "Birch",
+    "value": "#373021"
+  },
+  {
+    "name": "Biscay",
+    "value": "#1b3162"
+  },
+  {
+    "name": "Bismark",
+    "value": "#497183"
+  },
+  {
+    "name": "Bisque",
+    "value": "#ffe4c4"
+  },
+  {
+    "name": "Bistre",
+    "value": "#3d2b1f"
+  },
+  {
+    "name": "Bitter",
+    "value": "#868974"
+  },
+  {
+    "name": "Bittersweet",
+    "value": "#fe6f5e"
+  },
+  {
+    "name": "Bizarre",
+    "value": "#eededa"
+  },
+  {
+    "name": "Black",
+    "value": "#000000"
+  },
+  {
+    "name": "Blackbean",
+    "value": "#3d0c02"
+  },
+  {
+    "name": "Blackberry",
+    "value": "#4d0135"
+  },
+  {
+    "name": "Blackcurrant",
+    "value": "#32293a"
+  },
+  {
+    "name": "Blanched",
+    "value": "#ffebcd"
+  },
+  {
+    "name": "Blaze",
+    "value": "#ff6700"
+  },
+  {
+    "name": "Bleach",
+    "value": "#fef3d8"
+  },
+  {
+    "name": "Bleached",
+    "value": "#2c2133"
+  },
+  {
+    "name": "Blizzard",
+    "value": "#a3e3ed"
+  },
+  {
+    "name": "Blond",
+    "value": "#faf0be"
+  },
+  {
+    "name": "Blossom",
+    "value": "#dcb4bc"
+  },
+  {
+    "name": "Blue",
+    "value": "#0000ff"
+  },
+  {
+    "name": "Bluebell",
+    "value": "#a2a2d0"
+  },
+  {
+    "name": "Blueberry",
+    "value": "#4f86f7"
+  },
+  {
+    "name": "Bluebonnet",
+    "value": "#1c1cf0"
+  },
+  {
+    "name": "Blumine",
+    "value": "#18587a"
+  },
+  {
+    "name": "Blush",
+    "value": "#de5d83"
+  },
+  {
+    "name": "Bole",
+    "value": "#79443b"
+  },
+  {
+    "name": "Bombay",
+    "value": "#afb1b8"
+  },
+  {
+    "name": "Bondi",
+    "value": "#0095b6"
+  },
+  {
+    "name": "Bone",
+    "value": "#e3dac9"
+  },
+  {
+    "name": "Bordeaux",
+    "value": "#5c0120"
+  },
+  {
+    "name": "Bossanova",
+    "value": "#4e2a5a"
+  },
+  {
+    "name": "Botticelli",
+    "value": "#c7dde5"
+  },
+  {
+    "name": "Bottle",
+    "value": "#006a4e"
+  },
+  {
+    "name": "Boulder",
+    "value": "#7a7a7a"
+  },
+  {
+    "name": "Bouquet",
+    "value": "#ae809e"
+  },
+  {
+    "name": "Bourbon",
+    "value": "#ba6f1e"
+  },
+  {
+    "name": "Boysenberry",
+    "value": "#873260"
+  },
+  {
+    "name": "Bracken",
+    "value": "#4a2a04"
+  },
+  {
+    "name": "Brandy",
+    "value": "#dec196"
+  },
+  {
+    "name": "Brass",
+    "value": "#b5a642"
+  },
+  {
+    "name": "Brick",
+    "value": "#cb4154"
+  },
+  {
+    "name": "Bridesmaid",
+    "value": "#fef0ec"
+  },
+  {
+    "name": "Bronco",
+    "value": "#aba196"
+  },
+  {
+    "name": "Bronze",
+    "value": "#cd7f32"
+  },
+  {
+    "name": "Bronzetone",
+    "value": "#4d400f"
+  },
+  {
+    "name": "Broom",
+    "value": "#ffec13"
+  },
+  {
+    "name": "Brown",
+    "value": "#964b00"
+  },
+  {
+    "name": "Brunswick",
+    "value": "#1b4d3e"
+  },
+  {
+    "name": "Bubblegum",
+    "value": "#ffc1cc"
+  },
+  {
+    "name": "Bubbles",
+    "value": "#e7feff"
+  },
+  {
+    "name": "Buccaneer",
+    "value": "#622f30"
+  },
+  {
+    "name": "Bud",
+    "value": "#a8ae9c"
+  },
+  {
+    "name": "Buff",
+    "value": "#f0dc82"
+  },
+  {
+    "name": "Bunker",
+    "value": "#0d1117"
+  },
+  {
+    "name": "Bunting",
+    "value": "#151f4c"
+  },
+  {
+    "name": "Burgundy",
+    "value": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "value": "#deb887"
+  },
+  {
+    "name": "Burnham",
+    "value": "#002e20"
+  },
+  {
+    "name": "Burning",
+    "value": "#ff7034"
+  },
+  {
+    "name": "Bush",
+    "value": "#0d2e1c"
+  },
+  {
+    "name": "Buttercup",
+    "value": "#f3ad16"
+  },
+  {
+    "name": "Buttermilk",
+    "value": "#fff1b5"
+  },
+  {
+    "name": "Buttery",
+    "value": "#fffcea"
+  },
+  {
+    "name": "Byzantine",
+    "value": "#bd33a4"
+  },
+  {
+    "name": "Byzantium",
+    "value": "#702963"
+  },
+  {
+    "name": "Cabaret",
+    "value": "#d94972"
+  },
+  {
+    "name": "Cactus",
+    "value": "#587156"
+  },
+  {
+    "name": "Cadet",
+    "value": "#536872"
+  },
+  {
+    "name": "Cadillac",
+    "value": "#b04c6a"
+  },
+  {
+    "name": "Cadmium",
+    "value": "#ed872d"
+  },
+  {
+    "name": "Calico",
+    "value": "#e0c095"
+  },
+  {
+    "name": "California",
+    "value": "#fe9d04"
+  },
+  {
+    "name": "Calypso",
+    "value": "#31728d"
+  },
+  {
+    "name": "Camarone",
+    "value": "#00581a"
+  },
+  {
+    "name": "Cambridge",
+    "value": "#a3c1ad"
+  },
+  {
+    "name": "Camelot",
+    "value": "#893456"
+  },
+  {
+    "name": "Cameo",
+    "value": "#d9b99b"
+  },
+  {
+    "name": "Camouflage",
+    "value": "#3c3910"
+  },
+  {
+    "name": "Canary",
+    "value": "#f3fb62"
+  },
+  {
+    "name": "Candlelight",
+    "value": "#fcd917"
+  },
+  {
+    "name": "Candyapple",
+    "value": "#ff0800"
+  },
+  {
+    "name": "Caper",
+    "value": "#dcedb4"
+  },
+  {
+    "name": "Capri",
+    "value": "#00bfff"
+  },
+  {
+    "name": "Caramel",
+    "value": "#ffddaf"
+  },
+  {
+    "name": "Cararra",
+    "value": "#eeeee8"
+  },
+  {
+    "name": "Cardinal",
+    "value": "#c41e3a"
+  },
+  {
+    "name": "Caribbean",
+    "value": "#00cc99"
+  },
+  {
+    "name": "Carissma",
+    "value": "#ea88a8"
+  },
+  {
+    "name": "Carla",
+    "value": "#f3ffd8"
+  },
+  {
+    "name": "Carmine",
+    "value": "#960018"
+  },
+  {
+    "name": "Carnation",
+    "value": "#f95a61"
+  },
+  {
+    "name": "Carnelian",
+    "value": "#b31b1b"
+  },
+  {
+    "name": "Carrot",
+    "value": "#ed9121"
+  },
+  {
+    "name": "Casablanca",
+    "value": "#f8b853"
+  },
+  {
+    "name": "Casal",
+    "value": "#2f6168"
+  },
+  {
+    "name": "Cascade",
+    "value": "#8ba9a5"
+  },
+  {
+    "name": "Cashmere",
+    "value": "#e6bea5"
+  },
+  {
+    "name": "Casper",
+    "value": "#adbed1"
+  },
+  {
+    "name": "Castleton",
+    "value": "#00563b"
+  },
+  {
+    "name": "Castro",
+    "value": "#52001f"
+  },
+  {
+    "name": "Catalina",
+    "value": "#062a78"
+  },
+  {
+    "name": "Catawba",
+    "value": "#703642"
+  },
+  {
+    "name": "Cedar",
+    "value": "#3e1c14"
+  },
+  {
+    "name": "Ceil",
+    "value": "#92a1cf"
+  },
+  {
+    "name": "Celadon",
+    "value": "#ace1af"
+  },
+  {
+    "name": "Celery",
+    "value": "#b8c25d"
+  },
+  {
+    "name": "Celeste",
+    "value": "#b2ffff"
+  },
+  {
+    "name": "Celestial",
+    "value": "#4997d0"
+  },
+  {
+    "name": "Cello",
+    "value": "#1e385b"
+  },
+  {
+    "name": "Celtic",
+    "value": "#163222"
+  },
+  {
+    "name": "Cement",
+    "value": "#8d7662"
+  },
+  {
+    "name": "Ceramic",
+    "value": "#fcfff9"
+  },
+  {
+    "name": "Cerise",
+    "value": "#de3163"
+  },
+  {
+    "name": "Cerulean",
+    "value": "#007ba7"
+  },
+  {
+    "name": "Chablis",
+    "value": "#fff4f3"
+  },
+  {
+    "name": "Chalky",
+    "value": "#eed794"
+  },
+  {
+    "name": "Chambray",
+    "value": "#354e8c"
+  },
+  {
+    "name": "Chamois",
+    "value": "#eddcb1"
+  },
+  {
+    "name": "Chamoisee",
+    "value": "#a0785a"
+  },
+  {
+    "name": "Champagne",
+    "value": "#f7e7ce"
+  },
+  {
+    "name": "Chantilly",
+    "value": "#f8c3df"
+  },
+  {
+    "name": "Charade",
+    "value": "#292937"
+  },
+  {
+    "name": "Charcoal",
+    "value": "#36454f"
+  },
+  {
+    "name": "Chardon",
+    "value": "#fff3f1"
+  },
+  {
+    "name": "Chardonnay",
+    "value": "#ffcd8c"
+  },
+  {
+    "name": "Charlotte",
+    "value": "#baeef9"
+  },
+  {
+    "name": "Charm",
+    "value": "#d47494"
+  },
+  {
+    "name": "Chartreuse",
+    "value": "#dfff00"
+  },
+  {
+    "name": "Chatelle",
+    "value": "#bdb3c7"
+  },
+  {
+    "name": "Chenin",
+    "value": "#dfcd6f"
+  },
+  {
+    "name": "Cherokee",
+    "value": "#fcda98"
+  },
+  {
+    "name": "Cherryblossom",
+    "value": "#ffb7c5"
+  },
+  {
+    "name": "Cherrywood",
+    "value": "#651a14"
+  },
+  {
+    "name": "Cherub",
+    "value": "#f8d9e9"
+  },
+  {
+    "name": "Chestnut",
+    "value": "#954535"
+  },
+  {
+    "name": "Chicago",
+    "value": "#5d5c58"
+  },
+  {
+    "name": "Chiffon",
+    "value": "#f1ffc8"
+  },
+  {
+    "name": "Chino",
+    "value": "#cec7a7"
+  },
+  {
+    "name": "Chinook",
+    "value": "#a8e3bd"
+  },
+  {
+    "name": "Chlorophyll",
+    "value": "#4aff00"
+  },
+  {
+    "name": "Chocolate",
+    "value": "#7b3f00"
+  },
+  {
+    "name": "Christalle",
+    "value": "#33036b"
+  },
+  {
+    "name": "Christi",
+    "value": "#67a712"
+  },
+  {
+    "name": "Christine",
+    "value": "#e7730a"
+  },
+  {
+    "name": "Cinder",
+    "value": "#0e0e18"
+  },
+  {
+    "name": "Cinderella",
+    "value": "#fde1dc"
+  },
+  {
+    "name": "Cinereous",
+    "value": "#98817b"
+  },
+  {
+    "name": "Cinnabar",
+    "value": "#e34234"
+  },
+  {
+    "name": "Cinnamon",
+    "value": "#cd607e"
+  },
+  {
+    "name": "Cioccolato",
+    "value": "#55280c"
+  },
+  {
+    "name": "Citrine",
+    "value": "#e4d00a"
+  },
+  {
+    "name": "Citron",
+    "value": "#9fa91f"
+  },
+  {
+    "name": "Citrus",
+    "value": "#a1c50a"
+  },
+  {
+    "name": "Clairvoyant",
+    "value": "#480656"
+  },
+  {
+    "name": "Clamshell",
+    "value": "#d4b6af"
+  },
+  {
+    "name": "Claret",
+    "value": "#7f1734"
+  },
+  {
+    "name": "Clay",
+    "value": "#8a8360"
+  },
+  {
+    "name": "Clementine",
+    "value": "#e96e00"
+  },
+  {
+    "name": "Clinker",
+    "value": "#371d09"
+  },
+  {
+    "name": "Cloud",
+    "value": "#c7c4bf"
+  },
+  {
+    "name": "Cloudburst",
+    "value": "#202e54"
+  },
+  {
+    "name": "Cloudy",
+    "value": "#aca59f"
+  },
+  {
+    "name": "Clover",
+    "value": "#384910"
+  },
+  {
+    "name": "Cobalt",
+    "value": "#0047ab"
+  },
+  {
+    "name": "Cocoa",
+    "value": "#d2691e"
+  },
+  {
+    "name": "Coconut",
+    "value": "#965a3e"
+  },
+  {
+    "name": "Coffee",
+    "value": "#6f4e37"
+  },
+  {
+    "name": "Cognac",
+    "value": "#9f381d"
+  },
+  {
+    "name": "Cola",
+    "value": "#3f2500"
+  },
+  {
+    "name": "Colonial",
+    "value": "#ffedbc"
+  },
+  {
+    "name": "Comet",
+    "value": "#5c5d75"
+  },
+  {
+    "name": "Como",
+    "value": "#517c66"
+  },
+  {
+    "name": "Conch",
+    "value": "#c9d9d2"
+  },
+  {
+    "name": "Concord",
+    "value": "#7c7b7a"
+  },
+  {
+    "name": "Concrete",
+    "value": "#f2f2f2"
+  },
+  {
+    "name": "Confetti",
+    "value": "#e9d75a"
+  },
+  {
+    "name": "Conifer",
+    "value": "#acdd4d"
+  },
+  {
+    "name": "Contessa",
+    "value": "#c6726b"
+  },
+  {
+    "name": "Cool",
+    "value": "#8c92ac"
+  },
+  {
+    "name": "Copper",
+    "value": "#b87333"
+  },
+  {
+    "name": "Coquelicot",
+    "value": "#ff3800"
+  },
+  {
+    "name": "Coral",
+    "value": "#ff7f50"
+  },
+  {
+    "name": "Cordovan",
+    "value": "#893f45"
+  },
+  {
+    "name": "Corduroy",
+    "value": "#606e68"
+  },
+  {
+    "name": "Coriander",
+    "value": "#c4d0b0"
+  },
+  {
+    "name": "Cork",
+    "value": "#40291d"
+  },
+  {
+    "name": "Corn",
+    "value": "#e7bf05"
+  },
+  {
+    "name": "Cornsilk",
+    "value": "#fff8dc"
+  },
+  {
+    "name": "Corvette",
+    "value": "#fad3a2"
+  },
+  {
+    "name": "Cosmic",
+    "value": "#76395d"
+  },
+  {
+    "name": "Cosmos",
+    "value": "#ffd8d9"
+  },
+  {
+    "name": "Cowboy",
+    "value": "#4d282d"
+  },
+  {
+    "name": "Crail",
+    "value": "#b95140"
+  },
+  {
+    "name": "Cranberry",
+    "value": "#db5079"
+  },
+  {
+    "name": "Cream",
+    "value": "#fffdd0"
+  },
+  {
+    "name": "Creole",
+    "value": "#1e0f04"
+  },
+  {
+    "name": "Crete",
+    "value": "#737829"
+  },
+  {
+    "name": "Crimson",
+    "value": "#dc143c"
+  },
+  {
+    "name": "Crocodile",
+    "value": "#736d58"
+  },
+  {
+    "name": "Crowshead",
+    "value": "#1c1208"
+  },
+  {
+    "name": "Cruise",
+    "value": "#b5ecdf"
+  },
+  {
+    "name": "Crusoe",
+    "value": "#004816"
+  },
+  {
+    "name": "Crusta",
+    "value": "#fd7b33"
+  },
+  {
+    "name": "Cumin",
+    "value": "#924321"
+  },
+  {
+    "name": "Cumulus",
+    "value": "#fdffd5"
+  },
+  {
+    "name": "Cupid",
+    "value": "#fbbeda"
+  },
+  {
+    "name": "Cyan",
+    "value": "#00ffff"
+  },
+  {
+    "name": "Cyclamen",
+    "value": "#f56fa1"
+  },
+  {
+    "name": "Cyprus",
+    "value": "#003e40"
+  },
+  {
+    "name": "Daffodil",
+    "value": "#ffff31"
+  },
+  {
+    "name": "Daintree",
+    "value": "#012731"
+  },
+  {
+    "name": "Dallas",
+    "value": "#6e4b26"
+  },
+  {
+    "name": "Dandelion",
+    "value": "#f0e130"
+  },
+  {
+    "name": "Danube",
+    "value": "#6093d1"
+  },
+  {
+    "name": "Dawn",
+    "value": "#a6a29a"
+  },
+  {
+    "name": "Deco",
+    "value": "#d2da97"
+  },
+  {
+    "name": "Deer",
+    "value": "#ba8759"
+  },
+  {
+    "name": "Dell",
+    "value": "#396413"
+  },
+  {
+    "name": "Delta",
+    "value": "#a4a49d"
+  },
+  {
+    "name": "Deluge",
+    "value": "#7563a8"
+  },
+  {
+    "name": "Denim",
+    "value": "#1560bd"
+  },
+  {
+    "name": "Derby",
+    "value": "#ffeed8"
+  },
+  {
+    "name": "Desert",
+    "value": "#ae6020"
+  },
+  {
+    "name": "Desire",
+    "value": "#ea3c53"
+  },
+  {
+    "name": "Dew",
+    "value": "#eafffe"
+  },
+  {
+    "name": "Diamond",
+    "value": "#b9f2ff"
+  },
+  {
+    "name": "Diesel",
+    "value": "#130000"
+  },
+  {
+    "name": "Dingley",
+    "value": "#5d7747"
+  },
+  {
+    "name": "Dirt",
+    "value": "#9b7653"
+  },
+  {
+    "name": "Disco",
+    "value": "#871550"
+  },
+  {
+    "name": "Dixie",
+    "value": "#e29418"
+  },
+  {
+    "name": "Dogs",
+    "value": "#b86d29"
+  },
+  {
+    "name": "Dolly",
+    "value": "#f9ff8b"
+  },
+  {
+    "name": "Dolphin",
+    "value": "#646077"
+  },
+  {
+    "name": "Domino",
+    "value": "#8e775e"
+  },
+  {
+    "name": "Dorado",
+    "value": "#6b5755"
+  },
+  {
+    "name": "Dove",
+    "value": "#6d6c6c"
+  },
+  {
+    "name": "Downriver",
+    "value": "#092256"
+  },
+  {
+    "name": "Downy",
+    "value": "#6fd0c5"
+  },
+  {
+    "name": "Driftwood",
+    "value": "#af8751"
+  },
+  {
+    "name": "Drover",
+    "value": "#fdf7ad"
+  },
+  {
+    "name": "Dune",
+    "value": "#383533"
+  },
+  {
+    "name": "Dusty",
+    "value": "#a8989b"
+  },
+  {
+    "name": "Eagle",
+    "value": "#b6baa4"
+  },
+  {
+    "name": "Eastside",
+    "value": "#ac91ce"
+  },
+  {
+    "name": "Ebb",
+    "value": "#e9e3e3"
+  },
+  {
+    "name": "Ebony",
+    "value": "#555d50"
+  },
+  {
+    "name": "Eminence",
+    "value": "#6c3082"
+  },
+  {
+    "name": "Emperor",
+    "value": "#514649"
+  },
+  {
+    "name": "Empress",
+    "value": "#817377"
+  },
+  {
+    "name": "Endeavour",
+    "value": "#0056a7"
+  },
+  {
+    "name": "Energetic",
+    "value": "#f8dd5c"
+  },
+  {
+    "name": "Envy",
+    "value": "#8ba690"
+  },
+  {
+    "name": "Equator",
+    "value": "#e1bc64"
+  },
+  {
+    "name": "Espresso",
+    "value": "#612718"
+  },
+  {
+    "name": "Eternity",
+    "value": "#211a0e"
+  },
+  {
+    "name": "Eucalyptus",
+    "value": "#44d7a8"
+  },
+  {
+    "name": "Eunry",
+    "value": "#cfa39d"
+  },
+  {
+    "name": "Evening",
+    "value": "#024e46"
+  },
+  {
+    "name": "Everglade",
+    "value": "#1c402e"
+  },
+  {
+    "name": "Falcon",
+    "value": "#7f626d"
+  },
+  {
+    "name": "Fallow",
+    "value": "#c19a6b"
+  },
+  {
+    "name": "Fandango",
+    "value": "#b53389"
+  },
+  {
+    "name": "Fantasy",
+    "value": "#faf3f0"
+  },
+  {
+    "name": "Fawn",
+    "value": "#e5aa70"
+  },
+  {
+    "name": "Fedora",
+    "value": "#796a78"
+  },
+  {
+    "name": "Feijoa",
+    "value": "#9fdd8c"
+  },
+  {
+    "name": "Feldgrau",
+    "value": "#4d5d53"
+  },
+  {
+    "name": "Fern",
+    "value": "#63b76c"
+  },
+  {
+    "name": "Ferra",
+    "value": "#704f50"
+  },
+  {
+    "name": "Festival",
+    "value": "#fbe96c"
+  },
+  {
+    "name": "Feta",
+    "value": "#f0fcea"
+  },
+  {
+    "name": "Fiery",
+    "value": "#ff5470"
+  },
+  {
+    "name": "Finch",
+    "value": "#626649"
+  },
+  {
+    "name": "Finlandia",
+    "value": "#556d56"
+  },
+  {
+    "name": "Finn",
+    "value": "#692d54"
+  },
+  {
+    "name": "Fiord",
+    "value": "#405169"
+  },
+  {
+    "name": "Fire",
+    "value": "#aa4203"
+  },
+  {
+    "name": "Firebrick",
+    "value": "#b22222"
+  },
+  {
+    "name": "Firefly",
+    "value": "#0e2a30"
+  },
+  {
+    "name": "Flame",
+    "value": "#e25822"
+  },
+  {
+    "name": "Flamenco",
+    "value": "#ff7d07"
+  },
+  {
+    "name": "Flamingo",
+    "value": "#f2552a"
+  },
+  {
+    "name": "Flavescent",
+    "value": "#f7e98e"
+  },
+  {
+    "name": "Flax",
+    "value": "#eedc82"
+  },
+  {
+    "name": "Flint",
+    "value": "#6f6a61"
+  },
+  {
+    "name": "Flirt",
+    "value": "#a2006d"
+  },
+  {
+    "name": "Foam",
+    "value": "#d8fcfa"
+  },
+  {
+    "name": "Fog",
+    "value": "#d7d0ff"
+  },
+  {
+    "name": "Folly",
+    "value": "#ff004f"
+  },
+  {
+    "name": "Frangipani",
+    "value": "#ffdeb3"
+  },
+  {
+    "name": "Fresh",
+    "value": "#a6e7ff"
+  },
+  {
+    "name": "Froly",
+    "value": "#f57584"
+  },
+  {
+    "name": "Frost",
+    "value": "#edf5dd"
+  },
+  {
+    "name": "Frostbite",
+    "value": "#e936a7"
+  },
+  {
+    "name": "Frostee",
+    "value": "#e4f6e7"
+  },
+  {
+    "name": "Fuchsia",
+    "value": "#ff00ff"
+  },
+  {
+    "name": "Fuego",
+    "value": "#bede0d"
+  },
+  {
+    "name": "Fulvous",
+    "value": "#e48400"
+  },
+  {
+    "name": "Fuzzywuzzy",
+    "value": "#cc6666"
+  },
+  {
+    "name": "Gainsboro",
+    "value": "#dcdcdc"
+  },
+  {
+    "name": "Gallery",
+    "value": "#efefef"
+  },
+  {
+    "name": "Galliano",
+    "value": "#dcb20c"
+  },
+  {
+    "name": "Gamboge",
+    "value": "#e49b0f"
+  },
+  {
+    "name": "Geebung",
+    "value": "#d18f1b"
+  },
+  {
+    "name": "Viridian",
+    "value": "#007f66"
+  },
+  {
+    "name": "Genoa",
+    "value": "#15736b"
+  },
+  {
+    "name": "Geraldine",
+    "value": "#fb8989"
+  },
+  {
+    "name": "Geyser",
+    "value": "#d4dfe2"
+  },
+  {
+    "name": "Ghost",
+    "value": "#c7c9d5"
+  },
+  {
+    "name": "Gigas",
+    "value": "#523c94"
+  },
+  {
+    "name": "Gimblet",
+    "value": "#b8b56a"
+  },
+  {
+    "name": "Gin",
+    "value": "#e8f2eb"
+  },
+  {
+    "name": "Ginger",
+    "value": "#b06500"
+  },
+  {
+    "name": "Givry",
+    "value": "#f8e4bf"
+  },
+  {
+    "name": "Glacier",
+    "value": "#80b3c4"
+  },
+  {
+    "name": "Glaucous",
+    "value": "#6082b6"
+  },
+  {
+    "name": "Glitter",
+    "value": "#e6e8fa"
+  },
+  {
+    "name": "Goblin",
+    "value": "#3d7d52"
+  },
+  {
+    "name": "Golden",
+    "value": "#ffd700"
+  },
+  {
+    "name": "Goldenrod",
+    "value": "#daa520"
+  },
+  {
+    "name": "Gondola",
+    "value": "#261414"
+  },
+  {
+    "name": "Gorse",
+    "value": "#fff14f"
+  },
+  {
+    "name": "Gossamer",
+    "value": "#069b81"
+  },
+  {
+    "name": "Gossip",
+    "value": "#d2f8b0"
+  },
+  {
+    "name": "Gothic",
+    "value": "#6d92a1"
+  },
+  {
+    "name": "Grandis",
+    "value": "#ffd38c"
+  },
+  {
+    "name": "Granite",
+    "value": "#676767"
+  },
+  {
+    "name": "Grannysmith",
+    "value": "#84a0a0"
+  },
+  {
+    "name": "Grape",
+    "value": "#6f2da8"
+  },
+  {
+    "name": "Graphite",
+    "value": "#251607"
+  },
+  {
+    "name": "Gravel",
+    "value": "#4a444b"
+  },
+  {
+    "name": "Gray",
+    "value": "#808080"
+  },
+  {
+    "name": "Green",
+    "value": "#00ff00"
+  },
+  {
+    "name": "Grenadier",
+    "value": "#d54600"
+  },
+  {
+    "name": "Grizzly",
+    "value": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "value": "#a99a86"
+  },
+  {
+    "name": "Gumbo",
+    "value": "#7ca1a6"
+  },
+  {
+    "name": "Gunmetal",
+    "value": "#2a3439"
+  },
+  {
+    "name": "Gunsmoke",
+    "value": "#828685"
+  },
+  {
+    "name": "Gurkha",
+    "value": "#9a9577"
+  },
+  {
+    "name": "Hacienda",
+    "value": "#98811b"
+  },
+  {
+    "name": "Haiti",
+    "value": "#1b1035"
+  },
+  {
+    "name": "Hampton",
+    "value": "#e5d8af"
+  },
+  {
+    "name": "Harlequin",
+    "value": "#3fff00"
+  },
+  {
+    "name": "Harp",
+    "value": "#e6f2ea"
+  },
+  {
+    "name": "Heath",
+    "value": "#541012"
+  },
+  {
+    "name": "Heather",
+    "value": "#b7c3d0"
+  },
+  {
+    "name": "Heliotrope",
+    "value": "#df73ff"
+  },
+  {
+    "name": "Hemlock",
+    "value": "#5e5d3b"
+  },
+  {
+    "name": "Hemp",
+    "value": "#907874"
+  },
+  {
+    "name": "Hibiscus",
+    "value": "#b6316c"
+  },
+  {
+    "name": "Highland",
+    "value": "#6f8e63"
+  },
+  {
+    "name": "Hillary",
+    "value": "#aca586"
+  },
+  {
+    "name": "Himalaya",
+    "value": "#6a5d1b"
+  },
+  {
+    "name": "Hoki",
+    "value": "#65869f"
+  },
+  {
+    "name": "Holly",
+    "value": "#011d13"
+  },
+  {
+    "name": "Honeydew",
+    "value": "#f0fff0"
+  },
+  {
+    "name": "Honeysuckle",
+    "value": "#edfc84"
+  },
+  {
+    "name": "Hopbush",
+    "value": "#d06da1"
+  },
+  {
+    "name": "Horizon",
+    "value": "#5a87a0"
+  },
+  {
+    "name": "Horses",
+    "value": "#543d37"
+  },
+  {
+    "name": "Hurricane",
+    "value": "#877c7b"
+  }
+]

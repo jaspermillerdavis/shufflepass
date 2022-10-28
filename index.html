@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Shuffle Pass — Memorable Random Password Generator</title>
+	<link rel="stylesheet" href="assets/style.css">
+	<link rel="icon" href="favicon.png" type="image/png" />
+	<script src="assets/includes/shuffle.js"></script>
+  </head>
+  <body>
+	  <div class="container">
+		  <div class="heading">
+		 <h1><a href="/">Shuffle <span class="emoji">🎲</span> Pass</a></h1>
+	     <h2>Memorable Random Password Generator</h2>
+		  </div>
+		 <div class="main">
+		  <div class="copied">Copied to Clipboard!</div>
+		<div class="output-row">
+	  	<div id="output" title="Click to copy to clipboard" onclick="copyDivToClipboard()">
+			  <span class="colour"></span>
+			  <span class="animal"></span>
+			  <span class="number"></span>
+			  <span class="key"></span>
+		  </div>
+		</div>
+	  	<div id="regen">Regenerate!</div>
+	  </div>
+	  <div class="footer">
+		  Made with 🤍 by <a href="https://jm-d.net">Jasper Miller-Davis</a>
+	  </div>
+	  </div>
+	  <script>
+	  	 let colourDiv = document.querySelector('.colour');
+	 	 const outputDiv = document.getElementById('output');
+		 const button = document.getElementById('regen');
+		 const copiedTip = document.querySelector('.copied');
+		 const emoji = document.querySelector('.emoji');
+		  
+		  button.addEventListener('click', function() {
+			  outputDiv.classList.add('fadeOut');
+			  emoji.classList.add('spin');
+			  setTimeout(function() {
+				runGenerator();
+				}, 150);
+				setTimeout(function() {
+					outputDiv.classList.remove('fadeOut');
+				}, 200);
+				setTimeout(function() {
+					  emoji.classList.remove('spin');
+				  }, 1000);
+		  });
+	  </script>
+  </body>
+</html>
